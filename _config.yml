@@ -1,0 +1,15 @@
+# 사이트 제목과 설명
+title: "회사 이름"
+description: "회사 소개 및 서비스 안내"
+baseurl: ""  # 서브디렉토리 사용 시 지정 (예: "/blog")
+url: "https://username.github.io"  # 실제 도메인 또는 GitHub Pages URL
+
+# Jekyll 설정
+theme: minima  # 기본 테마 (GitHub Pages에서 지원)
+plugins:
+  - jekyll-feed
+
+# 사용자 정의 변수
+email: "contact@company.com"
+social:
+  twitter: "@company"
